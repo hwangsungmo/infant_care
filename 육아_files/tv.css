@@ -1,0 +1,45 @@
+.container {
+    max-width: 1700px!important;/*768px!important;*/
+}
+
+.container1 {
+    max-width: 1500px!important;/*768px!important;*/
+}
+
+.h1-main {
+    font-size: 1.7rem;
+}
+
+.h1-sub {
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+}
+
+footer {
+    background-color: #343a40/*#F1F2F1*/;
+    font-family: 'Oswald', sans-serif;
+    color: #fff/*rgba(0,0,0,.54)*/;
+}
+
+footer a { color: white!important; }
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+a.deco-none {
+    color:#000000 !important;
+    text-decoration:none;
+}
+
+.adsense_box {
+    max-width: 336px;
+    max-height: 280px;
+    margin:0 auto;
+}
